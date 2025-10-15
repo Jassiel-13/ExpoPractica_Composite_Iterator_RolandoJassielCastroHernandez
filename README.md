@@ -24,6 +24,7 @@ En la vida real, este patrón se puede aplicar en sistemas donde existe una jera
 ---
 
 ## 📂 Estructura del Proyecto
+```
 CompositeIterator_RolandoJassielCastroHernandez/
 │
 ├── src/
@@ -36,12 +37,15 @@ CompositeIterator_RolandoJassielCastroHernandez/
 ├── output_console.txt
 ├── LICENSE
 └── README.md
+```
+
+---
 
 
 ---
 
 ## 🧱 Diagrama UML Simplificado
-
+```text
         ┌────────────────────────┐
         │      Component (ABC)    │
         │ ─────────────────────── │
@@ -68,10 +72,10 @@ CompositeIterator_RolandoJassielCastroHernandez/
                  │ + __next__()           │
                  │ + __iter__()           │
                  └────────────────────────┘
-
----
+```
 
 ## 🧩 Código Principal
+```
 from src.menu import Menu
 from src.menu_item import MenuItem
 
@@ -106,7 +110,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+```
 ---
 
 ## 💻 Ejecución
