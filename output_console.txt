@@ -1,0 +1,20 @@
+🍽️ Estructura del Menú Compuesto
+---------------------------------
+> Menú Principal
+  > Desayunos
+    - Hotcakes - $60
+    - Café - $25
+  > Comidas
+    - Hamburguesa - $85
+    - Refresco - $30
+  > Postres
+    - Pastel de Chocolate - $70
+    - Helado - $50
+
+🔁 Recorriendo con el Iterador:
+  - Hotcakes ($60)
+  - Café ($25)
+  - Hamburguesa ($85)
+  - Refresco ($30)
+  - Pastel de Chocolate ($70)
+  - Helado ($50)
